@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.giftok.smsnotification.model.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-20T14:59:45" hostname="KBP1-LHP-F91635" time="0.035">
+  <properties/>
+  <testcase name="shouldRunFlow()" classname="com.giftok.smsnotification.model.AppTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
